@@ -1,4 +1,2 @@
 # Mack-Book-Pro
-* Html 
-* Bootstrap
-* Javascript
+* Promo code: stevekaku
